@@ -3,10 +3,6 @@
 <h4 align="center">Serverless • RAG • LLM • AWS Architecture</h4>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prajaktabodade&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-</p>
-
-<p align="center">
   <img width="420"
     src="https://miro.medium.com/v2/resize:fit:1326/1*fb5qImPRFI0Fg-fQ5aw-Mg.gif" />
 </p>
