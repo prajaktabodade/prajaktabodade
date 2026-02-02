@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 Hi, I'm <span style="color:#ff69b4;">Prajakta Bodade</span> 👩‍💻
+  🌸 Hi, I'm <span style="color:#ff69b4;">Prajakta Bodade</span> 👩‍💻
 </h1>
 
 <h3 align="center">
@@ -57,7 +57,7 @@
 </p>
 
 <p align="center">
-⭐ SageMaker &nbsp; ⭐ Bedrock &nbsp; ⭐ API Gateway &nbsp; ⭐ CloudWatch &nbsp; ⭐ SNS &nbsp; ⭐ VPC &nbsp; ⭐ EC2 &nbsp; ⭐ Amazon Polly &nbsp;
+⭐ SageMaker &nbsp; ⭐ Bedrock &nbsp; ⭐ API Gateway &nbsp; ⭐ CloudWatch &nbsp; ⭐ SNS &nbsp; ⭐ VPC
 </p>
 
 ---
@@ -90,10 +90,22 @@
 
 ---
 
+## 📊 GitHub Power Stats ⚡
+
+<p align="center">
+  <img width="48%" 
+       src="https://github-readme-stats.vercel.app/api?username=prajaktabodade&show_icons=true&theme=radical"/>
+  <img width="48%" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=prajaktabodade&theme=radical"/>
+</p>
+
+<p align="center">
+  <img width="45%" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajaktabodade&layout=compact&theme=radical"/>
+</p>
+
 ---
 
 <h2 align="center">
 ✨ Building Cloud & AI Solutions with Passion ✨
 </h2>
-
-
