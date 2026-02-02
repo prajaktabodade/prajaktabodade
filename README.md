@@ -90,27 +90,6 @@
 
 ---
 
-## 📊 GitHub Stats 
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=prajaktabodade&show_icons=true&theme=tokyonight"
-    width="400"/>
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=prajaktabodade&theme=tokyonight"
-    width="400"/>
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajaktabodade&layout=compact&theme=tokyonight"
-    width="350"/>
-</p>
-
-
 ---
 
 <h2 align="center">
