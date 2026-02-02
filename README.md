@@ -8,7 +8,7 @@ src="https://miro.medium.com/v2/resize:fit:1326/1*fb5qImPRFI0Fg-fQ5aw-Mg.gif"/>
   <img src="https://komarev.com/ghpvc/?username=prajaktabodade&label=Profile%20views&color=0e75b6&style=flat" alt="prajaktabodade" />
 </p>
 
----
+
 
 ### 👩‍💻 About Me
 
@@ -21,7 +21,7 @@ src="https://miro.medium.com/v2/resize:fit:1326/1*fb5qImPRFI0Fg-fQ5aw-Mg.gif"/>
 - 📫 Reach me at **prajaktabodade1@gmail.com**
 - 📄 Resume & Experience 👉 [View Here](https://github.com/prajaktabodade)
 
----
+
 
 ### 🔗 Connect with Me
 
@@ -33,7 +33,7 @@ alt="LinkedIn" height="30" width="40" />
 </a>
 </p>
 
----
+
 
 ### 🛠️ Technical Skills & Tools (As per Resume)
 
@@ -50,7 +50,7 @@ alt="LinkedIn" height="30" width="40" />
 **Services:**  
 SageMaker, Bedrock, Lambda, EC2, S3, IAM, VPC, Polly, CloudWatch, API Gateway, DynamoDB, SNS  
 
----
+
 
 #### 🤖 Generative AI & LLM
 <p align="left">
@@ -61,7 +61,7 @@ SageMaker, Bedrock, Lambda, EC2, S3, IAM, VPC, Polly, CloudWatch, API Gateway, D
 **Skills:**  
 LLM, RAG, LangChain, Hugging Face, Fine-Tuning, NLP, Embeddings  
 
----
+
 
 #### 💻 Programming & OS
 <p align="left">
@@ -72,12 +72,12 @@ LLM, RAG, LangChain, Hugging Face, Fine-Tuning, NLP, Embeddings
 
 Python, Linux, Windows, AWS CLI  
 
----
+
 
 #### 🌐 Networking & Security
 DNS, DHCP, Firewall, Cloud Security, Troubleshooting  
 
----
+
 
 #### 🔧 DevOps & Tools
 <p align="left">
@@ -87,7 +87,7 @@ DNS, DHCP, Firewall, Cloud Security, Troubleshooting
 
 Git, GitHub, CI/CD Basics  
 
----
+
 
 ### 📊 GitHub Stats
 
