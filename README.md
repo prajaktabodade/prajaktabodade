@@ -89,20 +89,4 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" 
-       src="https://github-readme-stats.vercel.app/api?username=prajaktabodade&show_icons=true&theme=radical"/>
-  <img width="48%" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=prajaktabodade&theme=radical"/>
-</p>
-
-<p align="center">
-  <img width="45%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajaktabodade&layout=compact&theme=radical"/>
-</p>
-
----
-
 <h3 align="center">✨ Building Cloud & AI Solutions that Scale ✨</h3>
